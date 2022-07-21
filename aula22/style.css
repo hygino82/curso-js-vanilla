@@ -1,0 +1,15 @@
+.menu {
+    display: none;
+}
+
+.show{
+    display: block;
+}
+
+#btn {
+    cursor: pointer
+}
+
+body{
+background-color: lightgray;
+}
