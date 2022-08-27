@@ -1,0 +1,12 @@
+{
+    "car": [
+        {
+            "color": "black",
+            "year": 2018
+        },
+        {
+            "color": "yellow",
+            "year": 2022
+        }
+    ]
+}
