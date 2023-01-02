@@ -1,0 +1,19 @@
+{
+  "name": "install",
+  "version": "1.0.0",
+  "description": "wef babel webpack",
+  "scripts": {
+    "build": "webpack --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.20.7",
+    "@babel/core": "^7.20.7",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.20.2",
+    "babel-loader": "^9.1.0",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
